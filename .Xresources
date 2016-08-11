@@ -1,0 +1,25 @@
+! font settings suggested by infinality
+Xft.autohint: 0
+Xft.lcdfilter:  lcddefault
+Xft.hintstyle:  hintslight
+Xft.hinting: 1
+Xft.antialias: 1
+Xft.dpi: 96
+Xft.rgba: rgb
+
+! Fonts
+URxvt*font:                 xft:Inconsolata\-dz:style=dzForPowerline:pixelsize=14:antialias=true:hinting=slight
+URxvt*boldFont:             xft:Inconsolata\-dz:style=bold:pixelsize=14:antialias=true:hinting=slight
+
+rofi.color-enabled: true
+rofi.color-window: #000000, #000000, #022632
+rofi.color-normal: #03303f, #eff6fe, #1c4452, #267c4b, #84d9c8
+! rofi.color-normal: #03303f, #eff6fe, #1c4452, #4e6e78, #84d9c8
+rofi.bc: black
+rofi.bw: 1
+rofi.sidebar-mode: true
+rofi.lines: 10
+rofi.font: Hack-Regular 9
+rofi.width: 600
+rofi.separator-style: solid
+rofi.hide-scrollbar: true
